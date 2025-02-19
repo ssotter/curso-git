@@ -1,1 +1,3 @@
 Testando atualização
+
+Novo texto no arquivo
