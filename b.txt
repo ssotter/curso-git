@@ -1,3 +1,5 @@
 Testando atualização
 
 Novo texto no arquivo
+
+Mais um app
